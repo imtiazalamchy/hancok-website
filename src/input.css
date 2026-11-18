@@ -5,4 +5,5 @@
 @theme {
   --font-primary: "Oswald", sans-serif; 
   --font-secondary: "Barlow Condensed", sans-serif; 
+  --spacing-myContainer: 1320px; 
 }
